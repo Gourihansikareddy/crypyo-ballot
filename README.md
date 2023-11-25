@@ -3,7 +3,7 @@
  Blockchain Voting System Project 
 
  Title: **CryptoBallot: Reinventing Democracy with Blockchain Technology**
- Team: V.Gouri Hansika Reddy;k.Dedeepya;K.Shiva Charan;S.Sakthi Pranav;K.Siva Pranav
+
 
 In a world where the sanctity of voting is paramount, CryptoBallot emerges as a revolutionary solution, leveraging the power of blockchain technology to enhance the democratic process. Acknowledging the limitations of traditional paper balloting, our platform addresses concerns of errors and abuse while ensuring legality, accuracy, safety, and convenience in every vote.
 
